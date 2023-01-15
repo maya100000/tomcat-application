@@ -1,5 +1,5 @@
 <%@ page import = "java.io.,java.util., javax.servlet.*" %>
-<html>
+
    <head>
       <title>Display Current Date & Time :) </title>
    </head>
